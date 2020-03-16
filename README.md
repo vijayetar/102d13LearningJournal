@@ -1,8 +1,6 @@
 
 # hi there
-## hi thereereererererer
-
-## Welcome to GitHub Pages
+## hi thereereerererere
 
 You can use the [editor on GitHub](https://github.com/vijayetar/102d13LearningJournal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
